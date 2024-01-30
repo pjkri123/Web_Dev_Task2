@@ -1,0 +1,47 @@
+*
+{
+    margin: 0;
+    scroll-behavior: smooth;
+}
+body
+{
+    text-align: center;
+}
+#navbar
+{
+    background-color: black;
+    padding: 20px;
+}
+#navbar a
+{
+    background-color: orange;
+    color: black;
+    text-decoration: none;
+    width: 100px;
+    margin-right: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+#navbar a:hover
+{
+    box-shadow:0 0 10px white;
+    color: white;
+}
+table
+{
+    width: 100%;
+}
+img
+{
+    width: 400px;
+    height: 300px;
+    border-radius: 20px;
+}
+#home-image>#home-image2
+{
+    padding-left: 850px;
+}
+p,h1
+{
+    margin: 20px 0;
+}
