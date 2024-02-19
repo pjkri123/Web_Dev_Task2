@@ -36,6 +36,8 @@ img
     width: 400px;
     height: 300px;
     border-radius: 20px;
+    border: 1px solid white;
+    box-shadow: 0 0 10px black;
 }
 #home-image>#home-image2
 {
